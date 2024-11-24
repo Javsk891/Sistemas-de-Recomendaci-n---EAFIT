@@ -1,4 +1,4 @@
-Sistema de Recomendación Inteligente para E-Commerce
+#Sistema de Recomendación Inteligente para E-Commerce
 Este repositorio presenta un sistema de recomendación de productos diseñado para plataformas de comercio electrónico, utilizando técnicas avanzadas de aprendizaje automático y Big Data. Basado en el análisis de calificaciones de estrellas proporcionadas por los usuarios, el sistema implementa dos modelos principales: Alternating Least Squares (ALS) para filtrado colaborativo y K-means para segmentación de usuarios y productos.
 Algoritmos Utilizados
 Alternating Least Squares (ALS)
