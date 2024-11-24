@@ -1,6 +1,8 @@
-Sistema de Recomendación Inteligente para E-Commerce
+#Sistema de Recomendación Inteligente para E-Commerce
+
 Este repositorio presenta un sistema de recomendación de productos diseñado para plataformas de comercio electrónico, utilizando técnicas avanzadas de aprendizaje automático y Big Data. Basado en el análisis de calificaciones de estrellas proporcionadas por los usuarios, el sistema implementa dos modelos principales: Alternating Least Squares (ALS) para filtrado colaborativo y K-means para segmentación de usuarios y productos.
-Introducción
+
+##Introducción
 En la actualidad, el comercio electrónico ha experimentado un crecimiento acelerado, transformando la manera en que los consumidores acceden y compran productos. Plataformas como Amazon han sido clave en esta transformación, ofreciendo una vasta gama de productos y servicios, donde las opiniones de los usuarios juegan un papel crucial en la toma de decisiones de compra. Las reseñas de productos no solo sirven como una forma de retroalimentación directa, sino que también representan un recurso invaluable para las empresas que buscan entender las preferencias de los consumidores y mejorar sus estrategias comerciales.
 El objetivo general de este proyecto es desarrollar un sistema de recomendación que utilice las calificaciones de estrellas proporcionadas por los usuarios, optimizando la precisión y personalización de las sugerencias mediante la implementación de algoritmos avanzados de aprendizaje automático y técnicas de Big Data. Para lograr esto, se implementarán algoritmos como ALS (Alternating Least Squares) y K-means.
 Algoritmos Utilizados
